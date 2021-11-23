@@ -13,8 +13,8 @@ To see the output:
 7.      $ npm install http-server -g
         $ http-server --v
         $ http-server -o
-10. This should open a browser window.  Click on project [wk08e-eyes-on-mouse]
-11. You should see a pair of eyes in your browser, that follow the mouse as you move it across the screen.
+8. This should open a browser window.  Click on project [wk08e-eyes-on-mouse]
+9. You should see a pair of eyes in your browser, that follow the mouse as you move it across the screen.
 
 credit  
 **MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021**
