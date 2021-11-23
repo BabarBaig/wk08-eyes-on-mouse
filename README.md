@@ -7,11 +7,11 @@ To see the output:
 1. Install/open a git bash prompt on your PC (Google if necessary).
 2. Clone this project (Google if necessary).
 3. cd to project folder.
-4. Verify that node.js is installed on your PC and http-server are installed on your PC:
-5.      $ http-server --v
-6. If you get an error message, install node.js, then run command:
+4. Install node.js on your PC, then verify:
+5.      $ node --version
+6. Install node.js package http-server, verify installation, then launch it:
 7.      $ npm install http-server -g
-8. Run command:
+8.      $ http-server --v
 9.      $ http-server -o
 10. This should open a browser window.  Click on project [wk08e-eyes-on-mouse]
 11. You should see a pair of eyes in your browser, that follow the mouse as you move it across the screen.
