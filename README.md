@@ -1,4 +1,4 @@
-# eyes-on-mouse
+# wk08e-eyes-on-mouse
 
 Draw a pair of eyes that follow the mouse on the screen.
 
