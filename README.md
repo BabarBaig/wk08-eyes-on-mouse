@@ -7,7 +7,7 @@ To see the output:
 1. Install/open a git bash prompt on your PC (Google if necessary).
 2. Clone this project (Google if necessary).
 3. cd to project folder.
-4. Install node.js on your PC, then verify:
+4. Install node.js on your PC (Google if necessary), then verify:
 5.      $ node --version
 6. Install node.js package http-server, verify installation, then launch it:
 7.      $ npm install http-server -g
