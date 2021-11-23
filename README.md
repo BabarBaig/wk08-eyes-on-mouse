@@ -1,8 +1,9 @@
 # eyes-on-mouse
+
 Draw a pair of eyes that follow the mouse on the screen.
 
 To see the output:  
-1.  Install/Open a Git bash prompt on your PC (Google if necessary).
+1.  Install/open a Git bash prompt on your PC (Google if necessary).
 2.  Clone this project (Google if necessary).
 3.  cd to project folder.
 4.  Verify that node and http-server are installed on your PC:
