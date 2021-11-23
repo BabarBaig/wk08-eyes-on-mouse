@@ -11,8 +11,8 @@ To see the output:
 5.      $ node --version
 6. Install node.js package http-server, verify installation, then launch it:
 7.      $ npm install http-server -g
-8.      $ http-server --v
-9.      $ http-server -o
+        $ http-server --v
+        $ http-server -o
 10. This should open a browser window.  Click on project [wk08e-eyes-on-mouse]
 11. You should see a pair of eyes in your browser, that follow the mouse as you move it across the screen.
 
