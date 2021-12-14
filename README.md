@@ -1,6 +1,6 @@
 # wk08e-eyes-on-mouse
 
-Draw a pair of eyes that follow the mouse on the screen.
+Render a pair of eyes centered in the browser, that follow the mouse on the screen.  As the mouse is moved across the screen, the eyes follow it.
 
 # To Execute
 
