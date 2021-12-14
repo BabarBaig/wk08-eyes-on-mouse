@@ -2,7 +2,7 @@
 
 Draw a pair of eyes that follow the mouse on the screen.
 
-To run this on your PC:
+# To Execute
 
 1. Clone this project (Google if necessary).
 2. cd to project folder.
